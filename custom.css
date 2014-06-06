@@ -31,12 +31,12 @@ h1{
 }
 .Tagline
 {
-  font-size:22px;
+  font-size:25px;
   text-decoration:None;
 }
 .fa{
-  padding:20px;
-  font-size:35px;
+  padding:17px;
+  font-size:40px;
   color:White;
   opacity:.7;
 }
@@ -44,6 +44,7 @@ h1{
 {
   -webkit-font-smoothing:antialiased
 }
+
 #DD4B39
 #0077b5
 #4a535b
